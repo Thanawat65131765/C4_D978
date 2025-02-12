@@ -1,0 +1,2 @@
+lookback,hidden_size,num_layers,learning_rate,dropout,batch_size,epochs,train_rmse,test_rmse,test_mae,test_r2,training_time,trial_number
+6,114,4,0.01032833974654988,0.2783331011414365,42,743,5.172075,4.7298336,2.881526470184326,0.8894477486610413,534.7978014945984,1
